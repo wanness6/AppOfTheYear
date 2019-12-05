@@ -1,0 +1,4 @@
+#Thu Dec 05 11:43:34 CET 2019
+base.0=C\:\\MyStuff\\school\\AP\\19-20 Mobile Development\\AppOfTheYear\\AppOfTheYear\\AppOfTheYear\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
